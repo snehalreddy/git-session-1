@@ -2,3 +2,5 @@ Edited.
 This is another file.
 
 1
+
+New change
