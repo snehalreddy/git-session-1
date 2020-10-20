@@ -9,5 +9,9 @@ this change is done in the new branch
 
 change done in the master branch!
 
+<<<<<<< HEAD
 
 BRANCH ONE change
+=======
+BRANCH TWO change
+>>>>>>> branch-two
