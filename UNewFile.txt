@@ -15,3 +15,5 @@ TWO
 
 
 Git stash text.
+
+New edit...
