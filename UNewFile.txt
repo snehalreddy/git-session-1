@@ -11,3 +11,6 @@ change done in the master branch!
 
 ONE
 TWO
+
+
+New stashed changes
