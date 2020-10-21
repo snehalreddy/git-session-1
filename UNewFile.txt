@@ -13,4 +13,5 @@ ONE
 TWO
 
 
-New stashed changes
+
+Git stash text.
